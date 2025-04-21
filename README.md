@@ -1,6 +1,3 @@
-# Student-Performance-Analysis
-A Jupyter Notebook project for analyzing student performance data using Python, pandas, and Seaborn.
-
 # 🎓 Student Performance Analysis
 
 This project presents an exploratory analysis of student performance data using Python. The goal is to identify patterns, correlations, and insights that influence academic outcomes such as gender, test preparation, parental education level, and more.
